@@ -1,6 +1,10 @@
 ========================================================================
     CONSOLE APPLICATION : The Lone Ranger Project Overview
 ========================================================================
+Credit:
+
+1. Shamyo Brotee (Roll - 14, CSEDU)
+2. Rahat Hossain (Roll - 32, CSEDU)
 
 AppWizard has created this The Lone Ranger application for you.
 
