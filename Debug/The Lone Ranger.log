@@ -1,0 +1,17 @@
+﻿Build started 11/13/2018 5:45:51 PM.
+     1>Project "C:\Users\USER\Documents\Visual Studio 2012\Projects\The Lone Ranger\The Lone Ranger\The Lone Ranger.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "The Lone Ranger.cpp" stdafx.cpp
+         stdafx.cpp
+         The Lone Ranger.cpp
+     1>c:\users\user\documents\visual studio 2012\projects\the lone ranger\the lone ranger\the lone ranger.cpp(39): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\USER\Documents\Visual Studio 2012\Projects\The Lone Ranger\Debug\The Lone Ranger.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\USER\Documents\Visual Studio 2012\Projects\The Lone Ranger\Debug\The Lone Ranger.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\USER\Documents\Visual Studio 2012\Projects\The Lone Ranger\Debug\The Lone Ranger.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\The Lone Ranger.obj"
+         The Lone Ranger.vcxproj -> C:\Users\USER\Documents\Visual Studio 2012\Projects\The Lone Ranger\Debug\The Lone Ranger.exe
+     1>Done Building Project "C:\Users\USER\Documents\Visual Studio 2012\Projects\The Lone Ranger\The Lone Ranger\The Lone Ranger.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.28
